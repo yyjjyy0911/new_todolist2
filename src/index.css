@@ -1,0 +1,16 @@
+/* reset 제작 */
+
+/* 구글폰트 */
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+*{margin: 0;padding: 0;}
+
+body{
+  width: 100%;
+  max-width: 500px;
+  margin: 50px auto;
+  font-family: 'Dongle', sans-serif;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+}
